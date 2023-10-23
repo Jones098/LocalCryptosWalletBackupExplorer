@@ -7,7 +7,7 @@
     "cashaddrjs": "^0.4.4",
     "coininfo": "5.1.0",
     "copy-to-clipboard": "^3.3.1",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.1.1",
     "eslint": "^6.8.0",
     "eslint-config-react-app": "^5.2.0",
     "ethereumjs-util": "^6.2.0",
